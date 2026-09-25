@@ -22,6 +22,27 @@ jobs:
         run: python residential-unit-generator/tools/generate_report_pack.py residential-unit-generator/configs/unit_matrix.json --unit-count 1 --policy-count 1 --out-dir residential-unit-generator/results/report_pack_ci
       - name: Verify report pack
         run: python residential-unit-generator/tools/generate_report_pack.py residential-unit-generator/configs/unit_matrix.json --unit-count 1 --policy-count 1 --out-dir residential-unit-generator/results/report_pack_ci --verify
+      - name: Summarize report pack
+        if: always()
+        run: |
+          python - <<'PY'
+          import json
+          from pathlib import Path
+          path = Path('residential-unit-generator/results/report_pack_ci/report_pack_summary.json')
+          if not path.exists():
+              print('report_pack_summary.json not found')
+              raise SystemExit(0)
+          data = json.loads(path.read_text(encoding='utf-8'))
+          print('Report pack status:', data.get('status'))
+          print('Unit report:', data.get('unit_report_path'))
+          print('Policy report:', data.get('policy_report_path'))
+          print('Dashboard:', data.get('dashboard_path'))
+          checks = data.get('checks', [])
+          if checks:
+              print('Checks:')
+              for item in checks:
+                  print(f"- {item.get('name')}: {item.get('status')} - {item.get('message')}")
+          PY
       - name: Upload report pack artifact
         if: always()
         uses: actions/upload-artifact@v4
