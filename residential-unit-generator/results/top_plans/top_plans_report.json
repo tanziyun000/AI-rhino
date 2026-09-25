@@ -1,0 +1,11 @@
+{
+  "count": 8,
+  "out_dir": "D:\\Ai+rhino\\residential-unit-generator\\results\\top_plans",
+  "summary": {
+    "generated": 8,
+    "valid": 8,
+    "top_score": 0.9521,
+    "best_unit": "A000"
+  },
+  "top_plans_svg": "D:\\Ai+rhino\\residential-unit-generator\\results\\top_plans\\top_plans.svg"
+}

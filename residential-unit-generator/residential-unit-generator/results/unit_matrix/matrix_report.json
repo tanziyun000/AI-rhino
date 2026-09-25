@@ -1,0 +1,51 @@
+{
+  "matrix": "D:\\ai+rhino\\residential-unit-generator\\configs\\unit_matrix.json",
+  "out_dir": "D:\\Ai+rhino\\residential-unit-generator\\residential-unit-generator\\results\\unit_matrix",
+  "items": [
+    {
+      "config": "D:\\Ai+rhino\\residential-unit-generator\\configs\\default_studio.json",
+      "unit_type": "studio",
+      "out_dir": "D:\\Ai+rhino\\residential-unit-generator\\residential-unit-generator\\results\\unit_matrix\\studio",
+      "summary": {
+        "count": 5,
+        "valid": 0,
+        "failed": 0,
+        "exception": 5,
+        "top_score": 0.0,
+        "best_unit": "A000"
+      },
+      "best_unit_json": "D:\\Ai+rhino\\residential-unit-generator\\residential-unit-generator\\results\\unit_matrix\\studio\\A000.json",
+      "best_unit_svg": ""
+    },
+    {
+      "config": "D:\\Ai+rhino\\residential-unit-generator\\configs\\default_2br.json",
+      "unit_type": "2BR",
+      "out_dir": "D:\\Ai+rhino\\residential-unit-generator\\residential-unit-generator\\results\\unit_matrix\\2br",
+      "summary": {
+        "count": 5,
+        "valid": 0,
+        "failed": 5,
+        "exception": 0,
+        "top_score": 0.79,
+        "best_unit": "A000"
+      },
+      "best_unit_json": "D:\\Ai+rhino\\residential-unit-generator\\residential-unit-generator\\results\\unit_matrix\\2br\\A000.json",
+      "best_unit_svg": ""
+    },
+    {
+      "config": "configs\\default_3br.json",
+      "unit_type": "3BR",
+      "out_dir": "D:\\Ai+rhino\\residential-unit-generator\\residential-unit-generator\\results\\unit_matrix\\3br",
+      "summary": {
+        "count": 5,
+        "valid": 5,
+        "failed": 0,
+        "exception": 0,
+        "top_score": 0.9521,
+        "best_unit": "A000"
+      },
+      "best_unit_json": "D:\\Ai+rhino\\residential-unit-generator\\residential-unit-generator\\results\\unit_matrix\\3br\\A000.json",
+      "best_unit_svg": ""
+    }
+  ]
+}

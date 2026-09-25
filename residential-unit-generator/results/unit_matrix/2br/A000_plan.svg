@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="108.0mm" height="78.0mm" viewBox="-0.40 -0.40 10.80 7.80">
+<rect x="0.00" y="0.00" width="10.00" height="7.00" fill="white" stroke="#111111" stroke-width="0.12"/>
+<polygon points="0.00,2.38 3.00,2.38 3.00,7.00 0.00,7.00" fill="#eef6ff" stroke="#444444" stroke-width="0.05"/>
+<text x="1.50" y="4.69" font-size="0.45" text-anchor="middle" dominant-baseline="middle" fill="#111111">living_room | 13.9m2</text>
+<polygon points="3.00,2.38 5.20,2.38 5.20,7.00 3.00,7.00" fill="#eef6ff" stroke="#444444" stroke-width="0.05"/>
+<text x="4.10" y="4.69" font-size="0.45" text-anchor="middle" dominant-baseline="middle" fill="#111111">kitchen | 10.2m2</text>
+<polygon points="7.40,2.38 10.00,2.38 10.00,7.00 7.40,7.00" fill="#eef6ff" stroke="#444444" stroke-width="0.05"/>
+<text x="8.70" y="4.69" font-size="0.45" text-anchor="middle" dominant-baseline="middle" fill="#111111">bedroom_main | 12.0m2</text>
+<polygon points="5.20,2.38 7.40,2.38 7.40,7.00 5.20,7.00" fill="#eef6ff" stroke="#444444" stroke-width="0.05"/>
+<text x="6.30" y="4.69" font-size="0.45" text-anchor="middle" dominant-baseline="middle" fill="#111111">bedroom_2 | 10.2m2</text>
+<polygon points="6.00,0.00 10.00,0.00 10.00,2.38 6.00,2.38" fill="#eef6ff" stroke="#444444" stroke-width="0.05"/>
+<text x="8.00" y="1.19" font-size="0.45" text-anchor="middle" dominant-baseline="middle" fill="#111111">bathroom_wet | 9.5m2</text>
+<polygon points="3.00,0.00 6.00,0.00 6.00,2.38 3.00,2.38" fill="#eef6ff" stroke="#444444" stroke-width="0.05"/>
+<text x="4.50" y="1.19" font-size="0.45" text-anchor="middle" dominant-baseline="middle" fill="#111111">bathroom_dry | 7.1m2</text>
+<polygon points="0.00,0.00 3.00,0.00 3.00,2.38 0.00,2.38" fill="#eef6ff" stroke="#444444" stroke-width="0.05"/>
+<text x="1.50" y="1.19" font-size="0.45" text-anchor="middle" dominant-baseline="middle" fill="#111111">storage | 7.1m2</text>
+<circle cx="1.20" cy="0.00" r="0.18" fill="#b00020"/>
+</svg>

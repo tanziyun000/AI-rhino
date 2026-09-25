@@ -1,0 +1,43 @@
+{
+  "count": 1,
+  "config": "configs\\default_3br.json",
+  "unit_type": "3BR",
+  "default": {
+    "generated": 1,
+    "valid": 1,
+    "average_score": 0.9521,
+    "warning_count": 0,
+    "failure_count": 0,
+    "top_score": 0.9521,
+    "best_unit": "A000",
+    "top_room_areas": {
+      "living_room": 27.6,
+      "kitchen": 14.4,
+      "bedroom_main": 21.6,
+      "bedroom_2": 19.44,
+      "bathroom_wet": 5.4,
+      "bathroom_dry": 4.32,
+      "storage": 3.24
+    }
+  },
+  "variant": {
+    "generated": 1,
+    "valid": 1,
+    "average_score": 0.9521,
+    "warning_count": 0,
+    "failure_count": 0,
+    "top_score": 0.9521,
+    "best_unit": "A000",
+    "top_room_areas": {
+      "living_room": 27.6,
+      "kitchen": 14.4,
+      "bedroom_main": 21.6,
+      "bedroom_2": 19.44,
+      "bathroom_wet": 5.4,
+      "bathroom_dry": 4.32,
+      "storage": 3.24
+    }
+  },
+  "out_dir": "D:\\Ai+rhino\\residential-unit-generator\\results\\policy_matrix\\3BR",
+  "comparison_svg": "D:\\Ai+rhino\\residential-unit-generator\\results\\policy_matrix\\3BR\\comparison_plan.svg"
+}

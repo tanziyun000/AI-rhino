@@ -1,0 +1,38 @@
+{
+  "project_name": "compact_studio_mvp",
+  "unit_type": "studio",
+  "boundary": {
+    "x": 0,
+    "y": 0,
+    "width": 6.5,
+    "depth": 5.0
+  },
+  "building": {
+    "floor_height": 2.9,
+    "wall_thickness": 0.2,
+    "entrance": {
+      "position": "long_edge",
+      "offset": 1.2,
+      "side": "bottom"
+    }
+  },
+  "program": [
+    { "name": "living_room", "target_area": 16.0, "required": true },
+    { "name": "kitchen", "target_area": 4.0, "required": true },
+    { "name": "bathroom_wet", "target_area": 3.0, "required": true },
+    { "name": "storage", "target_area": 2.0, "required": false }
+  ],
+  "constraints": {
+    "min_area": {
+      "bathroom_wet": 2.4,
+      "storage": 2.0
+    },
+    "max_aspect_ratio": 6.5,
+    "max_corridor_width": 1.6,
+    "min_corridor_width": 1.0,
+    "max_dead_end_corridor": 1.8,
+    "preferred_adjacency": [],
+    "disallowed_adjacency": []
+  },
+  "policy_file": "policies/studio_adjacency_policy.json"
+}

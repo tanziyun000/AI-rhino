@@ -1,0 +1,116 @@
+{
+  "name": "Residential Unit Generator",
+  "nickname": "ResUnitGen",
+  "category": "AI Architecture",
+  "subcategory": "MVP",
+  "description": "Generate and rank apartment plan variants from the residential-unit-generator prototype.",
+  "exposure": 4,
+  "ghpython": {
+    "isAdvancedMode": true,
+    "iconDisplay": 0,
+    "inputParameters": [
+      {
+        "name": "config_path",
+        "nickname": "cfg",
+        "description": "Path to JSON config file.",
+        "optional": false,
+        "allowTreeAccess": true,
+        "showTypeHints": true,
+        "scriptParamAccess": 0,
+        "typeHintID": "none"
+      },
+      {
+        "name": "count",
+        "nickname": "cnt",
+        "description": "How many variants to generate.",
+        "optional": false,
+        "allowTreeAccess": true,
+        "showTypeHints": true,
+        "scriptParamAccess": 0,
+        "typeHintID": "int"
+      },
+      {
+        "name": "seed_start",
+        "nickname": "seed",
+        "description": "First seed value.",
+        "optional": false,
+        "allowTreeAccess": true,
+        "showTypeHints": true,
+        "scriptParamAccess": 0,
+        "typeHintID": "int"
+      },
+      {
+        "name": "out_dir",
+        "nickname": "out",
+        "description": "Directory for summary CSV output.",
+        "optional": false,
+        "allowTreeAccess": true,
+        "showTypeHints": true,
+        "scriptParamAccess": 0,
+        "typeHintID": "none"
+      }
+    ],
+    "outputParameters": [
+      {
+        "name": "out",
+        "nickname": "out",
+        "description": "JSON summary payload."
+      },
+      {
+        "name": "top_result",
+        "nickname": "top",
+        "description": "Best-ranked unit result as JSON string."
+      },
+      {
+        "name": "summary_path",
+        "nickname": "csv",
+        "description": "Path to the written summary CSV."
+      },
+      {
+        "name": "geometry",
+        "nickname": "geo",
+        "description": "JSON geometry payload for batch results."
+      },
+      {
+        "name": "rooms",
+        "nickname": "rooms",
+        "description": "Room polygon outlines for the top result."
+      },
+      {
+        "name": "walls",
+        "nickname": "walls",
+        "description": "Wall segments for the top result."
+      },
+      {
+        "name": "labels",
+        "nickname": "labels",
+        "description": "Room labels for the top result."
+      },
+      {
+        "name": "doors",
+        "nickname": "doors",
+        "description": "Door point locations for the top result."
+      },
+      {
+        "name": "points",
+        "nickname": "points",
+        "description": "Room point cloud for the top result."
+      },
+      {
+        "name": "rhino_objects",
+        "nickname": "rhino",
+        "description": "Rhino geometry objects for the top result when available; otherwise pure-Python fallback."
+      },
+      {
+        "name": "extra_payload",
+        "nickname": "extra",
+        "description": "Extra Rhino-oriented output payloads for layers, texts, and groups."
+      },
+      {
+        "name": "write_status",
+        "nickname": "write",
+        "description": "Status of writing the top result into the active Rhino document."
+      }
+    ]
+  }
+}

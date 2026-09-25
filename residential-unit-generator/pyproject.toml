@@ -1,0 +1,12 @@
+[project]
+name = "residential-unit-generator"
+version = "0.1.0"
+description = "AI-assisted parametric residential floor-plan generator prototype"
+requires-python = ">=3.10"
+dependencies = []
+
+[tool.ruff]
+line-length = 120
+
+[tool.ruff.lint]
+select = ["E", "F", "W", "I"]

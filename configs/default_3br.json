@@ -1,0 +1,40 @@
+{
+  "project_name": "standard_apartment_mvp",
+  "unit_type": "3BR",
+  "boundary": {
+    "x": 0,
+    "y": 0,
+    "width": 12.0,
+    "depth": 8.0
+  },
+  "building": {
+    "floor_height": 2.9,
+    "wall_thickness": 0.2,
+    "entrance": {
+      "position": "long_edge",
+      "offset": 1.2,
+      "side": "bottom"
+    }
+  },
+  "program": [
+    { "name": "living_room", "target_area": 22.0, "required": true },
+    { "name": "kitchen", "target_area": 7.0, "required": true },
+    { "name": "bedroom_main", "target_area": 13.0, "required": true },
+    { "name": "bedroom_2", "target_area": 10.0, "required": true },
+    { "name": "bathroom_wet", "target_area": 5.0, "required": true },
+    { "name": "bathroom_dry", "target_area": 4.0, "required": true },
+    { "name": "storage", "target_area": 3.0, "required": false }
+  ],
+  "constraints": {
+    "min_area": {
+      "bedroom_main": 11.0,
+      "bedroom_2": 9.0,
+      "bathroom_wet": 4.0,
+      "bathroom_dry": 3.5
+    },
+    "max_aspect_ratio": 6.5,
+    "max_corridor_width": 1.6,
+    "min_corridor_width": 1.0,
+    "max_dead_end_corridor": 1.8
+  }
+}

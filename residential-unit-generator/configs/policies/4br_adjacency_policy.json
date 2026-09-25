@@ -1,0 +1,9 @@
+{
+  "name": "4br_adjacency_policy",
+  "preferred_adjacency": [
+    ["kitchen", "living_room", "soft"],
+    ["bathroom_wet", "bedroom_2", "soft"],
+    ["bathroom_dry", "storage", "soft"]
+  ],
+  "disallowed_adjacency": []
+}

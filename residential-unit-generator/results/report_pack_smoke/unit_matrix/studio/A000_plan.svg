@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="73.0mm" height="58.0mm" viewBox="-0.40 -0.40 7.30 5.80">
+<rect x="0.00" y="0.00" width="6.50" height="5.00" fill="white" stroke="#111111" stroke-width="0.12"/>
+<polygon points="0.00,0.00 3.90,0.00 3.90,2.75 0.00,2.75" fill="#eef6ff" stroke="#444444" stroke-width="0.05"/>
+<text x="1.95" y="1.38" font-size="0.45" text-anchor="middle" dominant-baseline="middle" fill="#111111">living_room | 10.7m2</text>
+<polygon points="2.27,2.75 6.50,2.75 6.50,3.90 2.27,3.90" fill="#eef6ff" stroke="#444444" stroke-width="0.05"/>
+<text x="4.39" y="3.33" font-size="0.45" text-anchor="middle" dominant-baseline="middle" fill="#111111">kitchen | 4.9m2</text>
+<polygon points="3.90,0.00 6.50,0.00 6.50,1.40 3.90,1.40" fill="#eef6ff" stroke="#444444" stroke-width="0.05"/>
+<text x="5.20" y="0.70" font-size="0.45" text-anchor="middle" dominant-baseline="middle" fill="#111111">bathroom_wet | 3.6m2</text>
+<polygon points="0.00,2.75 2.27,2.75 2.27,3.85 0.00,3.85" fill="#eef6ff" stroke="#444444" stroke-width="0.05"/>
+<text x="1.14" y="3.30" font-size="0.45" text-anchor="middle" dominant-baseline="middle" fill="#111111">storage | 2.5m2</text>
+<circle cx="1.20" cy="0.00" r="0.18" fill="#b00020"/>
+</svg>

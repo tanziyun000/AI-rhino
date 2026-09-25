@@ -1,0 +1,286 @@
+{
+  "unit_id": "A008",
+  "seed": 8,
+  "project_name": "standard_apartment_mvp",
+  "unit_type": "3BR",
+  "status": "valid",
+  "total_area": 96.0,
+  "usable_area": 96.0,
+  "corridor_area": 0.0,
+  "rooms": [
+    {
+      "name": "living_room",
+      "area": 27.6,
+      "width": 12.0,
+      "depth": 2.3,
+      "aspect_ratio": 5.22,
+      "center": [
+        6.0,
+        4.15
+      ],
+      "polygon": [
+        [
+          0.0,
+          3.0
+        ],
+        [
+          12.0,
+          3.0
+        ],
+        [
+          12.0,
+          5.3
+        ],
+        [
+          0.0,
+          5.3
+        ]
+      ],
+      "required": true,
+      "target_area": 22.0
+    },
+    {
+      "name": "kitchen",
+      "area": 14.4,
+      "width": 4.8,
+      "depth": 3.0,
+      "aspect_ratio": 1.6,
+      "center": [
+        9.6,
+        1.5
+      ],
+      "polygon": [
+        [
+          7.2,
+          0.0
+        ],
+        [
+          12.0,
+          0.0
+        ],
+        [
+          12.0,
+          3.0
+        ],
+        [
+          7.2,
+          3.0
+        ]
+      ],
+      "required": true,
+      "target_area": 7.0
+    },
+    {
+      "name": "bedroom_main",
+      "area": 21.6,
+      "width": 7.2,
+      "depth": 3.0,
+      "aspect_ratio": 2.4,
+      "center": [
+        3.6,
+        1.5
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          7.2,
+          0.0
+        ],
+        [
+          7.2,
+          3.0
+        ],
+        [
+          0.0,
+          3.0
+        ]
+      ],
+      "required": true,
+      "target_area": 13.0
+    },
+    {
+      "name": "bedroom_2",
+      "area": 19.44,
+      "width": 7.2,
+      "depth": 2.7,
+      "aspect_ratio": 2.67,
+      "center": [
+        8.4,
+        6.65
+      ],
+      "polygon": [
+        [
+          4.8,
+          5.3
+        ],
+        [
+          12.0,
+          5.3
+        ],
+        [
+          12.0,
+          8.0
+        ],
+        [
+          4.8,
+          8.0
+        ]
+      ],
+      "required": true,
+      "target_area": 10.0
+    },
+    {
+      "name": "bathroom_wet",
+      "area": 5.4,
+      "width": 2.0,
+      "depth": 2.7,
+      "aspect_ratio": 1.35,
+      "center": [
+        3.8,
+        6.65
+      ],
+      "polygon": [
+        [
+          2.8,
+          5.3
+        ],
+        [
+          4.8,
+          5.3
+        ],
+        [
+          4.8,
+          8.0
+        ],
+        [
+          2.8,
+          8.0
+        ]
+      ],
+      "required": true,
+      "target_area": 5.0
+    },
+    {
+      "name": "bathroom_dry",
+      "area": 4.32,
+      "width": 1.6,
+      "depth": 2.7,
+      "aspect_ratio": 1.69,
+      "center": [
+        2.0,
+        6.65
+      ],
+      "polygon": [
+        [
+          1.2,
+          5.3
+        ],
+        [
+          2.8,
+          5.3
+        ],
+        [
+          2.8,
+          8.0
+        ],
+        [
+          1.2,
+          8.0
+        ]
+      ],
+      "required": true,
+      "target_area": 4.0
+    },
+    {
+      "name": "storage",
+      "area": 3.24,
+      "width": 1.2,
+      "depth": 2.7,
+      "aspect_ratio": 2.25,
+      "center": [
+        0.6,
+        6.65
+      ],
+      "polygon": [
+        [
+          0.0,
+          5.3
+        ],
+        [
+          1.2,
+          5.3
+        ],
+        [
+          1.2,
+          8.0
+        ],
+        [
+          0.0,
+          8.0
+        ]
+      ],
+      "required": false,
+      "target_area": 3.0
+    }
+  ],
+  "doors": [
+    {
+      "from": "entrance",
+      "to": "storage",
+      "point": [
+        1.2,
+        0.0
+      ],
+      "width": 0.9
+    }
+  ],
+  "walls": [],
+  "boundary": {
+    "x": 0,
+    "y": 0,
+    "width": 12.0,
+    "depth": 8.0
+  },
+  "constraints": {
+    "min_area": {
+      "bedroom_main": 11.0,
+      "bedroom_2": 9.0,
+      "bathroom_wet": 4.0,
+      "bathroom_dry": 3.5
+    },
+    "max_aspect_ratio": 6.5,
+    "max_corridor_width": 1.6,
+    "min_corridor_width": 1.0,
+    "max_dead_end_corridor": 1.8,
+    "preferred_adjacency": [
+      [
+        "kitchen",
+        "living_room",
+        "soft"
+      ],
+      [
+        "bathroom_wet",
+        "bedroom_2",
+        "hard"
+      ],
+      [
+        "bathroom_dry",
+        "storage",
+        "soft"
+      ]
+    ],
+    "disallowed_adjacency": []
+  },
+  "warnings": [],
+  "failures": [],
+  "area_score": 1.0,
+  "room_quality_score": 0.8678,
+  "circulation_score": 0.9143,
+  "layout_score": 1.0,
+  "compliance_score": 1.0,
+  "total_score": 0.9521,
+  "score": 0.9521
+}

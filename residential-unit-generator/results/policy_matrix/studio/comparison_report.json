@@ -1,0 +1,37 @@
+{
+  "count": 1,
+  "config": "configs\\default_studio.json",
+  "unit_type": "studio",
+  "default": {
+    "generated": 1,
+    "valid": 1,
+    "average_score": 0.8474,
+    "warning_count": 0,
+    "failure_count": 0,
+    "top_score": 0.8474,
+    "best_unit": "A000",
+    "top_room_areas": {
+      "living_room": 10.72,
+      "kitchen": 4.86,
+      "bathroom_wet": 3.64,
+      "storage": 2.5
+    }
+  },
+  "variant": {
+    "generated": 1,
+    "valid": 1,
+    "average_score": 0.8474,
+    "warning_count": 0,
+    "failure_count": 0,
+    "top_score": 0.8474,
+    "best_unit": "A000",
+    "top_room_areas": {
+      "living_room": 10.72,
+      "kitchen": 4.86,
+      "bathroom_wet": 3.64,
+      "storage": 2.5
+    }
+  },
+  "out_dir": "D:\\Ai+rhino\\residential-unit-generator\\results\\policy_matrix\\studio",
+  "comparison_svg": "D:\\Ai+rhino\\residential-unit-generator\\results\\policy_matrix\\studio\\comparison_plan.svg"
+}

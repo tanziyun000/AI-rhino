@@ -1,0 +1,6 @@
+unit_id,seed,status,total_area,usable_area,corridor_area,score,area_score,room_quality_score,circulation_score,layout_score,compliance_score,failures,warnings
+A000,0,failed,70.0,70.0,0.0,0.79,1.0,0.882,0.9143,0.82,0.0,bathroom_wet area 1.7 is below minimum 3.5 | bathroom_dry area 2.27 is below minimum 3.0 | preferred adjacency missing: bathroom_wet next to bedroom_2,
+A001,1,failed,70.0,70.0,0.0,0.79,1.0,0.882,0.9143,0.82,0.0,bathroom_wet area 1.7 is below minimum 3.5 | bathroom_dry area 2.27 is below minimum 3.0 | preferred adjacency missing: bathroom_wet next to bedroom_2,
+A002,2,failed,70.0,70.0,0.0,0.79,1.0,0.882,0.9143,0.82,0.0,bathroom_wet area 1.7 is below minimum 3.5 | bathroom_dry area 2.27 is below minimum 3.0 | preferred adjacency missing: bathroom_wet next to bedroom_2,
+A003,3,failed,70.0,70.0,0.0,0.79,1.0,0.882,0.9143,0.82,0.0,bathroom_wet area 1.7 is below minimum 3.5 | bathroom_dry area 2.27 is below minimum 3.0 | preferred adjacency missing: bathroom_wet next to bedroom_2,
+A004,4,failed,70.0,70.0,0.0,0.79,1.0,0.882,0.9143,0.82,0.0,bathroom_wet area 1.7 is below minimum 3.5 | bathroom_dry area 2.27 is below minimum 3.0 | preferred adjacency missing: bathroom_wet next to bedroom_2,

@@ -1,0 +1,2 @@
+unit_id,seed,status,total_area,usable_area,corridor_area,score,area_score,room_quality_score,circulation_score,layout_score,compliance_score,failures,warnings
+A000,0,valid,126.0,130.84,0.0,0.8611,1.0,0.8838,0.8667,0.8,0.6,,bedroom_3 is not directly adjacent to living_room | bedroom_4 is not directly adjacent to living_room | kitchen is directly adjacent to multiple bedrooms | preferred adjacency missing: bathroom_wet next to bedroom_2 | preferred adjacency missing: bathroom_dry next to storage

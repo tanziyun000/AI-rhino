@@ -1,0 +1,7 @@
+{
+  "name": "studio_adjacency_policy_variant",
+  "preferred_adjacency": [
+    ["kitchen", "living_room", "hard"]
+  ],
+  "disallowed_adjacency": []
+}

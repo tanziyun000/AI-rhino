@@ -1,0 +1,43 @@
+{
+  "count": 1,
+  "config": "configs\\default_2br.json",
+  "unit_type": "2BR",
+  "default": {
+    "generated": 1,
+    "valid": 1,
+    "average_score": 0.9277,
+    "warning_count": 2,
+    "failure_count": 0,
+    "top_score": 0.9277,
+    "best_unit": "A000",
+    "top_room_areas": {
+      "living_room": 13.86,
+      "kitchen": 10.16,
+      "bedroom_main": 12.01,
+      "bedroom_2": 10.16,
+      "bathroom_wet": 9.52,
+      "bathroom_dry": 7.14,
+      "storage": 7.14
+    }
+  },
+  "variant": {
+    "generated": 1,
+    "valid": 0,
+    "average_score": 0.8017,
+    "warning_count": 2,
+    "failure_count": 1,
+    "top_score": 0.8017,
+    "best_unit": "A000",
+    "top_room_areas": {
+      "living_room": 13.86,
+      "kitchen": 10.16,
+      "bedroom_main": 12.01,
+      "bedroom_2": 10.16,
+      "bathroom_wet": 9.52,
+      "bathroom_dry": 7.14,
+      "storage": 7.14
+    }
+  },
+  "out_dir": "D:\\Ai+rhino\\residential-unit-generator\\results\\policy_matrix\\2BR",
+  "comparison_svg": "D:\\Ai+rhino\\residential-unit-generator\\results\\policy_matrix\\2BR\\comparison_plan.svg"
+}

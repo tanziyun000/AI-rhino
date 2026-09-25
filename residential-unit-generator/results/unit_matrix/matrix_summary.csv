@@ -1,0 +1,5 @@
+config,unit_type,out_dir,count,valid,failed,exception,top_score,best_unit
+configs\default_studio.json,studio,D:\Ai+rhino\residential-unit-generator\results\unit_matrix\studio,5,5,0,0,0.8474,A000
+configs\default_2br.json,2BR,D:\Ai+rhino\residential-unit-generator\results\unit_matrix\2br,5,5,0,0,0.9277,A000
+configs\default_3br.json,3BR,D:\Ai+rhino\residential-unit-generator\results\unit_matrix\3br,5,5,0,0,0.9521,A000
+configs\default_4br.json,4BR,D:\Ai+rhino\residential-unit-generator\results\unit_matrix\4br,5,5,0,0,0.8611,A000

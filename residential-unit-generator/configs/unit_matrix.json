@@ -1,0 +1,11 @@
+{
+  "name": "unit_matrix_4config",
+  "configs": [
+    "configs/default_studio.json",
+    "configs/default_2br.json",
+    "configs/default_3br.json",
+    "configs/default_4br.json"
+  ],
+  "count": 5,
+  "out_dir": "results/unit_matrix"
+}

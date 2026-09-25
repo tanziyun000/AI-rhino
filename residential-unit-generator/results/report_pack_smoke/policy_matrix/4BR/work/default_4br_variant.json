@@ -1,0 +1,83 @@
+{
+  "project_name": "standard_4br_mvp",
+  "unit_type": "4BR",
+  "boundary": {
+    "x": 0,
+    "y": 0,
+    "width": 14.0,
+    "depth": 9.0
+  },
+  "building": {
+    "floor_height": 2.9,
+    "wall_thickness": 0.2,
+    "entrance": {
+      "position": "long_edge",
+      "offset": 1.4,
+      "side": "bottom"
+    }
+  },
+  "program": [
+    {
+      "name": "living_room",
+      "target_area": 26.0,
+      "required": true
+    },
+    {
+      "name": "kitchen",
+      "target_area": 8.0,
+      "required": true
+    },
+    {
+      "name": "bedroom_main",
+      "target_area": 14.0,
+      "required": true
+    },
+    {
+      "name": "bedroom_2",
+      "target_area": 11.0,
+      "required": true
+    },
+    {
+      "name": "bedroom_3",
+      "target_area": 10.0,
+      "required": true
+    },
+    {
+      "name": "bedroom_4",
+      "target_area": 9.0,
+      "required": true
+    },
+    {
+      "name": "bathroom_wet",
+      "target_area": 5.0,
+      "required": true
+    },
+    {
+      "name": "bathroom_dry",
+      "target_area": 4.0,
+      "required": false
+    },
+    {
+      "name": "storage",
+      "target_area": 3.0,
+      "required": false
+    }
+  ],
+  "constraints": {
+    "min_area": {
+      "bedroom_main": 12.0,
+      "bedroom_2": 9.5,
+      "bedroom_3": 8.5,
+      "bedroom_4": 8.0,
+      "bathroom_wet": 4.0,
+      "bathroom_dry": 3.5
+    },
+    "max_aspect_ratio": 6.5,
+    "max_corridor_width": 1.6,
+    "min_corridor_width": 1.0,
+    "max_dead_end_corridor": 1.8,
+    "preferred_adjacency": [],
+    "disallowed_adjacency": []
+  },
+  "policy_file": "D:\\Ai+rhino\\residential-unit-generator\\configs\\policies\\4br_adjacency_policy_variant.json"
+}

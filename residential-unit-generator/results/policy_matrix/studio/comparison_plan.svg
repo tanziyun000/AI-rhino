@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24.0mm" height="10.0mm" viewBox="0 0 24.00 10.00">
+<rect x="0" y="0" width="24.00" height="10.00" fill="#f6f7f9"/>
+<text x="1.0" y="0.7" font-size="1.1" font-weight="bold" fill="#111111">policy comparison</text>
+<text x="0.60" y="0.70" font-size="0.9" font-weight="bold" fill="#111111">default</text>
+<rect x="0.40" y="1.00" width="6.50" height="5.00" fill="#ffffff" stroke="#111111" stroke-width="0.12"/>
+<polygon points="0.40,1.00 4.30,1.00 4.30,3.75 0.40,3.75" fill="#eef6ff" stroke="#444444" stroke-width="0.05"/>
+<text x="2.35" y="2.38" font-size="0.45" text-anchor="middle" dominant-baseline="middle" fill="#111111">living_room | 10.7m2</text>
+<polygon points="2.67,3.75 6.90,3.75 6.90,4.90 2.67,4.90" fill="#eef6ff" stroke="#444444" stroke-width="0.05"/>
+<text x="4.79" y="4.33" font-size="0.45" text-anchor="middle" dominant-baseline="middle" fill="#111111">kitchen | 4.9m2</text>
+<polygon points="4.30,1.00 6.90,1.00 6.90,2.40 4.30,2.40" fill="#eef6ff" stroke="#444444" stroke-width="0.05"/>
+<text x="5.60" y="1.70" font-size="0.45" text-anchor="middle" dominant-baseline="middle" fill="#111111">bathroom_wet | 3.6m2</text>
+<polygon points="0.40,3.75 2.67,3.75 2.67,4.85 0.40,4.85" fill="#eef6ff" stroke="#444444" stroke-width="0.05"/>
+<text x="1.54" y="4.30" font-size="0.45" text-anchor="middle" dominant-baseline="middle" fill="#111111">storage | 2.5m2</text>
+<circle cx="1.60" cy="1.00" r="0.18" fill="#b00020"/>
+<text x="0.60" y="6.55" font-size="0.6" fill="#111111">score=0.8474 status=valid</text>
+<text x="13.20" y="0.70" font-size="0.9" font-weight="bold" fill="#111111">variant</text>
+<rect x="13.00" y="1.00" width="6.50" height="5.00" fill="#ffffff" stroke="#111111" stroke-width="0.12"/>
+<polygon points="13.00,1.00 16.90,1.00 16.90,3.75 13.00,3.75" fill="#eef6ff" stroke="#444444" stroke-width="0.05"/>
+<text x="14.95" y="2.38" font-size="0.45" text-anchor="middle" dominant-baseline="middle" fill="#111111">living_room | 10.7m2</text>
+<polygon points="15.27,3.75 19.50,3.75 19.50,4.90 15.27,4.90" fill="#eef6ff" stroke="#444444" stroke-width="0.05"/>
+<text x="17.39" y="4.33" font-size="0.45" text-anchor="middle" dominant-baseline="middle" fill="#111111">kitchen | 4.9m2</text>
+<polygon points="16.90,1.00 19.50,1.00 19.50,2.40 16.90,2.40" fill="#eef6ff" stroke="#444444" stroke-width="0.05"/>
+<text x="18.20" y="1.70" font-size="0.45" text-anchor="middle" dominant-baseline="middle" fill="#111111">bathroom_wet | 3.6m2</text>
+<polygon points="13.00,3.75 15.27,3.75 15.27,4.85 13.00,4.85" fill="#eef6ff" stroke="#444444" stroke-width="0.05"/>
+<text x="14.14" y="4.30" font-size="0.45" text-anchor="middle" dominant-baseline="middle" fill="#111111">storage | 2.5m2</text>
+<circle cx="14.20" cy="1.00" r="0.18" fill="#b00020"/>
+<text x="13.20" y="6.55" font-size="0.6" fill="#111111">score=0.8474 status=valid</text>
+</svg>

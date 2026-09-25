@@ -1,0 +1,112 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24.9mm" height="14.1mm" viewBox="0 0 24.92 14.12">
+<rect x="0" y="0" width="24.92" height="14.12" fill="#f6f7f9"/>
+<text x="0.6" y="0.6" font-size="1.1" font-weight="bold" fill="#111111">top plans</text>
+<text x="0.75" y="0.65" font-size="0.9" font-weight="bold" fill="#111111">A000</text>
+<rect x="0.50" y="1.00" width="7.44" height="4.96" fill="#ffffff" stroke="#111111" stroke-width="0.12"/>
+<polygon points="0.50,2.86 7.94,2.86 7.94,4.29 0.50,4.29" fill="#eef6ff" stroke="#444444" stroke-width="0.03"/>
+<text x="4.22" y="3.57" font-size="0.28" text-anchor="middle" dominant-baseline="middle" fill="#111111">living_room | 27.6m2</text>
+<polygon points="4.96,1.00 7.94,1.00 7.94,2.86 4.96,2.86" fill="#eef6ff" stroke="#444444" stroke-width="0.03"/>
+<text x="6.45" y="1.93" font-size="0.28" text-anchor="middle" dominant-baseline="middle" fill="#111111">kitchen | 14.4m2</text>
+<polygon points="0.50,1.00 4.96,1.00 4.96,2.86 0.50,2.86" fill="#eef6ff" stroke="#444444" stroke-width="0.03"/>
+<text x="2.73" y="1.93" font-size="0.28" text-anchor="middle" dominant-baseline="middle" fill="#111111">bedroom_main | 21.6m2</text>
+<polygon points="3.48,4.29 7.94,4.29 7.94,5.96 3.48,5.96" fill="#eef6ff" stroke="#444444" stroke-width="0.03"/>
+<text x="5.71" y="5.12" font-size="0.28" text-anchor="middle" dominant-baseline="middle" fill="#111111">bedroom_2 | 19.4m2</text>
+<polygon points="2.24,4.29 3.48,4.29 3.48,5.96 2.24,5.96" fill="#eef6ff" stroke="#444444" stroke-width="0.03"/>
+<text x="2.86" y="5.12" font-size="0.28" text-anchor="middle" dominant-baseline="middle" fill="#111111">bathroom_wet | 5.4m2</text>
+<polygon points="1.24,4.29 2.24,4.29 2.24,5.96 1.24,5.96" fill="#eef6ff" stroke="#444444" stroke-width="0.03"/>
+<text x="1.74" y="5.12" font-size="0.28" text-anchor="middle" dominant-baseline="middle" fill="#111111">bathroom_dry | 4.3m2</text>
+<polygon points="0.50,4.29 1.24,4.29 1.24,5.96 0.50,5.96" fill="#eef6ff" stroke="#444444" stroke-width="0.03"/>
+<text x="0.87" y="5.12" font-size="0.28" text-anchor="middle" dominant-baseline="middle" fill="#111111">storage | 3.2m2</text>
+<circle cx="1.24" cy="1.00" r="0.11" fill="#b00020"/>
+<text x="0.75" y="6.51" font-size="0.6" fill="#111111">score=0.9521 status=valid</text>
+<text x="8.99" y="0.65" font-size="0.9" font-weight="bold" fill="#111111">A001</text>
+<rect x="8.74" y="1.00" width="7.44" height="4.96" fill="#ffffff" stroke="#111111" stroke-width="0.12"/>
+<polygon points="8.74,2.86 16.18,2.86 16.18,4.29 8.74,4.29" fill="#eef6ff" stroke="#444444" stroke-width="0.03"/>
+<text x="12.46" y="3.57" font-size="0.28" text-anchor="middle" dominant-baseline="middle" fill="#111111">living_room | 27.6m2</text>
+<polygon points="13.20,1.00 16.18,1.00 16.18,2.86 13.20,2.86" fill="#eef6ff" stroke="#444444" stroke-width="0.03"/>
+<text x="14.69" y="1.93" font-size="0.28" text-anchor="middle" dominant-baseline="middle" fill="#111111">kitchen | 14.4m2</text>
+<polygon points="8.74,1.00 13.20,1.00 13.20,2.86 8.74,2.86" fill="#eef6ff" stroke="#444444" stroke-width="0.03"/>
+<text x="10.97" y="1.93" font-size="0.28" text-anchor="middle" dominant-baseline="middle" fill="#111111">bedroom_main | 21.6m2</text>
+<polygon points="11.72,4.29 16.18,4.29 16.18,5.96 11.72,5.96" fill="#eef6ff" stroke="#444444" stroke-width="0.03"/>
+<text x="13.95" y="5.12" font-size="0.28" text-anchor="middle" dominant-baseline="middle" fill="#111111">bedroom_2 | 19.4m2</text>
+<polygon points="10.48,4.29 11.72,4.29 11.72,5.96 10.48,5.96" fill="#eef6ff" stroke="#444444" stroke-width="0.03"/>
+<text x="11.10" y="5.12" font-size="0.28" text-anchor="middle" dominant-baseline="middle" fill="#111111">bathroom_wet | 5.4m2</text>
+<polygon points="9.48,4.29 10.48,4.29 10.48,5.96 9.48,5.96" fill="#eef6ff" stroke="#444444" stroke-width="0.03"/>
+<text x="9.98" y="5.12" font-size="0.28" text-anchor="middle" dominant-baseline="middle" fill="#111111">bathroom_dry | 4.3m2</text>
+<polygon points="8.74,4.29 9.48,4.29 9.48,5.96 8.74,5.96" fill="#eef6ff" stroke="#444444" stroke-width="0.03"/>
+<text x="9.11" y="5.12" font-size="0.28" text-anchor="middle" dominant-baseline="middle" fill="#111111">storage | 3.2m2</text>
+<circle cx="9.48" cy="1.00" r="0.11" fill="#b00020"/>
+<text x="8.99" y="6.51" font-size="0.6" fill="#111111">score=0.9521 status=valid</text>
+<text x="17.23" y="0.65" font-size="0.9" font-weight="bold" fill="#111111">A002</text>
+<rect x="16.98" y="1.00" width="7.44" height="4.96" fill="#ffffff" stroke="#111111" stroke-width="0.12"/>
+<polygon points="16.98,2.86 24.42,2.86 24.42,4.29 16.98,4.29" fill="#eef6ff" stroke="#444444" stroke-width="0.03"/>
+<text x="20.70" y="3.57" font-size="0.28" text-anchor="middle" dominant-baseline="middle" fill="#111111">living_room | 27.6m2</text>
+<polygon points="21.44,1.00 24.42,1.00 24.42,2.86 21.44,2.86" fill="#eef6ff" stroke="#444444" stroke-width="0.03"/>
+<text x="22.93" y="1.93" font-size="0.28" text-anchor="middle" dominant-baseline="middle" fill="#111111">kitchen | 14.4m2</text>
+<polygon points="16.98,1.00 21.44,1.00 21.44,2.86 16.98,2.86" fill="#eef6ff" stroke="#444444" stroke-width="0.03"/>
+<text x="19.21" y="1.93" font-size="0.28" text-anchor="middle" dominant-baseline="middle" fill="#111111">bedroom_main | 21.6m2</text>
+<polygon points="19.96,4.29 24.42,4.29 24.42,5.96 19.96,5.96" fill="#eef6ff" stroke="#444444" stroke-width="0.03"/>
+<text x="22.19" y="5.12" font-size="0.28" text-anchor="middle" dominant-baseline="middle" fill="#111111">bedroom_2 | 19.4m2</text>
+<polygon points="18.72,4.29 19.96,4.29 19.96,5.96 18.72,5.96" fill="#eef6ff" stroke="#444444" stroke-width="0.03"/>
+<text x="19.34" y="5.12" font-size="0.28" text-anchor="middle" dominant-baseline="middle" fill="#111111">bathroom_wet | 5.4m2</text>
+<polygon points="17.72,4.29 18.72,4.29 18.72,5.96 17.72,5.96" fill="#eef6ff" stroke="#444444" stroke-width="0.03"/>
+<text x="18.22" y="5.12" font-size="0.28" text-anchor="middle" dominant-baseline="middle" fill="#111111">bathroom_dry | 4.3m2</text>
+<polygon points="16.98,4.29 17.72,4.29 17.72,5.96 16.98,5.96" fill="#eef6ff" stroke="#444444" stroke-width="0.03"/>
+<text x="17.35" y="5.12" font-size="0.28" text-anchor="middle" dominant-baseline="middle" fill="#111111">storage | 3.2m2</text>
+<circle cx="17.72" cy="1.00" r="0.11" fill="#b00020"/>
+<text x="17.23" y="6.51" font-size="0.6" fill="#111111">score=0.9521 status=valid</text>
+<text x="0.75" y="7.61" font-size="0.9" font-weight="bold" fill="#111111">A003</text>
+<rect x="0.50" y="7.96" width="7.44" height="4.96" fill="#ffffff" stroke="#111111" stroke-width="0.12"/>
+<polygon points="0.50,9.82 7.94,9.82 7.94,11.25 0.50,11.25" fill="#eef6ff" stroke="#444444" stroke-width="0.03"/>
+<text x="4.22" y="10.53" font-size="0.28" text-anchor="middle" dominant-baseline="middle" fill="#111111">living_room | 27.6m2</text>
+<polygon points="4.96,7.96 7.94,7.96 7.94,9.82 4.96,9.82" fill="#eef6ff" stroke="#444444" stroke-width="0.03"/>
+<text x="6.45" y="8.89" font-size="0.28" text-anchor="middle" dominant-baseline="middle" fill="#111111">kitchen | 14.4m2</text>
+<polygon points="0.50,7.96 4.96,7.96 4.96,9.82 0.50,9.82" fill="#eef6ff" stroke="#444444" stroke-width="0.03"/>
+<text x="2.73" y="8.89" font-size="0.28" text-anchor="middle" dominant-baseline="middle" fill="#111111">bedroom_main | 21.6m2</text>
+<polygon points="3.48,11.25 7.94,11.25 7.94,12.92 3.48,12.92" fill="#eef6ff" stroke="#444444" stroke-width="0.03"/>
+<text x="5.71" y="12.08" font-size="0.28" text-anchor="middle" dominant-baseline="middle" fill="#111111">bedroom_2 | 19.4m2</text>
+<polygon points="2.24,11.25 3.48,11.25 3.48,12.92 2.24,12.92" fill="#eef6ff" stroke="#444444" stroke-width="0.03"/>
+<text x="2.86" y="12.08" font-size="0.28" text-anchor="middle" dominant-baseline="middle" fill="#111111">bathroom_wet | 5.4m2</text>
+<polygon points="1.24,11.25 2.24,11.25 2.24,12.92 1.24,12.92" fill="#eef6ff" stroke="#444444" stroke-width="0.03"/>
+<text x="1.74" y="12.08" font-size="0.28" text-anchor="middle" dominant-baseline="middle" fill="#111111">bathroom_dry | 4.3m2</text>
+<polygon points="0.50,11.25 1.24,11.25 1.24,12.92 0.50,12.92" fill="#eef6ff" stroke="#444444" stroke-width="0.03"/>
+<text x="0.87" y="12.08" font-size="0.28" text-anchor="middle" dominant-baseline="middle" fill="#111111">storage | 3.2m2</text>
+<circle cx="1.24" cy="7.96" r="0.11" fill="#b00020"/>
+<text x="0.75" y="13.47" font-size="0.6" fill="#111111">score=0.9521 status=valid</text>
+<text x="8.99" y="7.61" font-size="0.9" font-weight="bold" fill="#111111">A004</text>
+<rect x="8.74" y="7.96" width="7.44" height="4.96" fill="#ffffff" stroke="#111111" stroke-width="0.12"/>
+<polygon points="8.74,9.82 16.18,9.82 16.18,11.25 8.74,11.25" fill="#eef6ff" stroke="#444444" stroke-width="0.03"/>
+<text x="12.46" y="10.53" font-size="0.28" text-anchor="middle" dominant-baseline="middle" fill="#111111">living_room | 27.6m2</text>
+<polygon points="13.20,7.96 16.18,7.96 16.18,9.82 13.20,9.82" fill="#eef6ff" stroke="#444444" stroke-width="0.03"/>
+<text x="14.69" y="8.89" font-size="0.28" text-anchor="middle" dominant-baseline="middle" fill="#111111">kitchen | 14.4m2</text>
+<polygon points="8.74,7.96 13.20,7.96 13.20,9.82 8.74,9.82" fill="#eef6ff" stroke="#444444" stroke-width="0.03"/>
+<text x="10.97" y="8.89" font-size="0.28" text-anchor="middle" dominant-baseline="middle" fill="#111111">bedroom_main | 21.6m2</text>
+<polygon points="11.72,11.25 16.18,11.25 16.18,12.92 11.72,12.92" fill="#eef6ff" stroke="#444444" stroke-width="0.03"/>
+<text x="13.95" y="12.08" font-size="0.28" text-anchor="middle" dominant-baseline="middle" fill="#111111">bedroom_2 | 19.4m2</text>
+<polygon points="10.48,11.25 11.72,11.25 11.72,12.92 10.48,12.92" fill="#eef6ff" stroke="#444444" stroke-width="0.03"/>
+<text x="11.10" y="12.08" font-size="0.28" text-anchor="middle" dominant-baseline="middle" fill="#111111">bathroom_wet | 5.4m2</text>
+<polygon points="9.48,11.25 10.48,11.25 10.48,12.92 9.48,12.92" fill="#eef6ff" stroke="#444444" stroke-width="0.03"/>
+<text x="9.98" y="12.08" font-size="0.28" text-anchor="middle" dominant-baseline="middle" fill="#111111">bathroom_dry | 4.3m2</text>
+<polygon points="8.74,11.25 9.48,11.25 9.48,12.92 8.74,12.92" fill="#eef6ff" stroke="#444444" stroke-width="0.03"/>
+<text x="9.11" y="12.08" font-size="0.28" text-anchor="middle" dominant-baseline="middle" fill="#111111">storage | 3.2m2</text>
+<circle cx="9.48" cy="7.96" r="0.11" fill="#b00020"/>
+<text x="8.99" y="13.47" font-size="0.6" fill="#111111">score=0.9521 status=valid</text>
+<text x="17.23" y="7.61" font-size="0.9" font-weight="bold" fill="#111111">A005</text>
+<rect x="16.98" y="7.96" width="7.44" height="4.96" fill="#ffffff" stroke="#111111" stroke-width="0.12"/>
+<polygon points="16.98,9.82 24.42,9.82 24.42,11.25 16.98,11.25" fill="#eef6ff" stroke="#444444" stroke-width="0.03"/>
+<text x="20.70" y="10.53" font-size="0.28" text-anchor="middle" dominant-baseline="middle" fill="#111111">living_room | 27.6m2</text>
+<polygon points="21.44,7.96 24.42,7.96 24.42,9.82 21.44,9.82" fill="#eef6ff" stroke="#444444" stroke-width="0.03"/>
+<text x="22.93" y="8.89" font-size="0.28" text-anchor="middle" dominant-baseline="middle" fill="#111111">kitchen | 14.4m2</text>
+<polygon points="16.98,7.96 21.44,7.96 21.44,9.82 16.98,9.82" fill="#eef6ff" stroke="#444444" stroke-width="0.03"/>
+<text x="19.21" y="8.89" font-size="0.28" text-anchor="middle" dominant-baseline="middle" fill="#111111">bedroom_main | 21.6m2</text>
+<polygon points="19.96,11.25 24.42,11.25 24.42,12.92 19.96,12.92" fill="#eef6ff" stroke="#444444" stroke-width="0.03"/>
+<text x="22.19" y="12.08" font-size="0.28" text-anchor="middle" dominant-baseline="middle" fill="#111111">bedroom_2 | 19.4m2</text>
+<polygon points="18.72,11.25 19.96,11.25 19.96,12.92 18.72,12.92" fill="#eef6ff" stroke="#444444" stroke-width="0.03"/>
+<text x="19.34" y="12.08" font-size="0.28" text-anchor="middle" dominant-baseline="middle" fill="#111111">bathroom_wet | 5.4m2</text>
+<polygon points="17.72,11.25 18.72,11.25 18.72,12.92 17.72,12.92" fill="#eef6ff" stroke="#444444" stroke-width="0.03"/>
+<text x="18.22" y="12.08" font-size="0.28" text-anchor="middle" dominant-baseline="middle" fill="#111111">bathroom_dry | 4.3m2</text>
+<polygon points="16.98,11.25 17.72,11.25 17.72,12.92 16.98,12.92" fill="#eef6ff" stroke="#444444" stroke-width="0.03"/>
+<text x="17.35" y="12.08" font-size="0.28" text-anchor="middle" dominant-baseline="middle" fill="#111111">storage | 3.2m2</text>
+<circle cx="17.72" cy="7.96" r="0.11" fill="#b00020"/>
+<text x="17.23" y="13.47" font-size="0.6" fill="#111111">score=0.9521 status=valid</text>
+</svg>

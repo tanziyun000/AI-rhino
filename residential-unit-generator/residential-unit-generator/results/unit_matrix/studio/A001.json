@@ -1,0 +1,21 @@
+{
+  "unit_id": "A001",
+  "seed": 1,
+  "project_name": "compact_studio_mvp",
+  "unit_type": "studio",
+  "status": "exception",
+  "total_area": 0.0,
+  "usable_area": 0.0,
+  "corridor_area": 0.0,
+  "rooms": [],
+  "doors": [],
+  "warnings": [],
+  "failures": [
+    "exception: not enough height for child rectangle"
+  ],
+  "score": 0.0,
+  "area_score": 0.0,
+  "room_quality_score": 0.0,
+  "circulation_score": 0.0,
+  "compliance_score": 0.0
+}

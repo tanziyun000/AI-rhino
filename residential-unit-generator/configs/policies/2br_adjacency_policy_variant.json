@@ -1,0 +1,11 @@
+{
+  "name": "2br_adjacency_policy_variant",
+  "preferred_adjacency": [
+    ["kitchen", "living_room", "hard"],
+    ["bathroom_wet", "bedroom_2", "soft"],
+    ["bathroom_dry", "storage", "soft"]
+  ],
+  "disallowed_adjacency": [
+    ["kitchen", "bathroom_dry", "hard"]
+  ]
+}

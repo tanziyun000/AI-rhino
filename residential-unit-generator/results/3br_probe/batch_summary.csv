@@ -1,0 +1,6 @@
+unit_id,seed,status,total_area,usable_area,corridor_area,score,area_score,room_quality_score,circulation_score,layout_score,compliance_score,failures,warnings
+A000,0,failed,96.0,96.0,0.0,0.7726,1.0,0.7776,0.9143,0.86,0.0,bathroom_dry aspect ratio 7.84 exceeds 6.5,kitchen is directly adjacent to multiple bedrooms | preferred adjacency missing: kitchen next to living_room
+A001,1,failed,96.0,96.0,0.0,0.7726,1.0,0.7776,0.9143,0.86,0.0,bathroom_dry aspect ratio 7.84 exceeds 6.5,kitchen is directly adjacent to multiple bedrooms | preferred adjacency missing: kitchen next to living_room
+A002,2,failed,96.0,96.0,0.0,0.7726,1.0,0.7776,0.9143,0.86,0.0,bathroom_dry aspect ratio 7.84 exceeds 6.5,kitchen is directly adjacent to multiple bedrooms | preferred adjacency missing: kitchen next to living_room
+A003,3,failed,96.0,96.0,0.0,0.7726,1.0,0.7776,0.9143,0.86,0.0,bathroom_dry aspect ratio 7.84 exceeds 6.5,kitchen is directly adjacent to multiple bedrooms | preferred adjacency missing: kitchen next to living_room
+A004,4,failed,96.0,96.0,0.0,0.7726,1.0,0.7776,0.9143,0.86,0.0,bathroom_dry aspect ratio 7.84 exceeds 6.5,kitchen is directly adjacent to multiple bedrooms | preferred adjacency missing: kitchen next to living_room

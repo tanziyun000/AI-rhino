@@ -1,0 +1,2 @@
+unit_id,seed,status,total_area,usable_area,corridor_area,score,area_score,room_quality_score,circulation_score,layout_score,compliance_score,failures,warnings
+A000,0,failed,70.0,69.99,0.01,0.8017,0.9999,0.9098,0.9143,0.86,0.0,disallowed adjacency: kitchen next to bathroom_dry,bedroom_main is not directly adjacent to living_room | bedroom_2 is not directly adjacent to living_room

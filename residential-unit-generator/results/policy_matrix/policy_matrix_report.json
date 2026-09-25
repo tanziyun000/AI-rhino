@@ -1,0 +1,177 @@
+{
+  "matrix": "D:\\Ai+rhino\\residential-unit-generator\\configs\\unit_matrix.json",
+  "out_dir": "D:\\Ai+rhino\\residential-unit-generator\\results\\policy_matrix",
+  "count": 1,
+  "items": [
+    {
+      "count": 1,
+      "config": "configs\\default_studio.json",
+      "unit_type": "studio",
+      "default": {
+        "generated": 1,
+        "valid": 1,
+        "average_score": 0.8474,
+        "warning_count": 0,
+        "failure_count": 0,
+        "top_score": 0.8474,
+        "best_unit": "A000",
+        "top_room_areas": {
+          "living_room": 10.72,
+          "kitchen": 4.86,
+          "bathroom_wet": 3.64,
+          "storage": 2.5
+        }
+      },
+      "variant": {
+        "generated": 1,
+        "valid": 1,
+        "average_score": 0.8474,
+        "warning_count": 0,
+        "failure_count": 0,
+        "top_score": 0.8474,
+        "best_unit": "A000",
+        "top_room_areas": {
+          "living_room": 10.72,
+          "kitchen": 4.86,
+          "bathroom_wet": 3.64,
+          "storage": 2.5
+        }
+      },
+      "out_dir": "D:\\Ai+rhino\\residential-unit-generator\\results\\policy_matrix\\studio",
+      "comparison_svg": "D:\\Ai+rhino\\residential-unit-generator\\results\\policy_matrix\\studio\\comparison_plan.svg"
+    },
+    {
+      "count": 1,
+      "config": "configs\\default_2br.json",
+      "unit_type": "2BR",
+      "default": {
+        "generated": 1,
+        "valid": 1,
+        "average_score": 0.9277,
+        "warning_count": 2,
+        "failure_count": 0,
+        "top_score": 0.9277,
+        "best_unit": "A000",
+        "top_room_areas": {
+          "living_room": 13.86,
+          "kitchen": 10.16,
+          "bedroom_main": 12.01,
+          "bedroom_2": 10.16,
+          "bathroom_wet": 9.52,
+          "bathroom_dry": 7.14,
+          "storage": 7.14
+        }
+      },
+      "variant": {
+        "generated": 1,
+        "valid": 0,
+        "average_score": 0.8017,
+        "warning_count": 2,
+        "failure_count": 1,
+        "top_score": 0.8017,
+        "best_unit": "A000",
+        "top_room_areas": {
+          "living_room": 13.86,
+          "kitchen": 10.16,
+          "bedroom_main": 12.01,
+          "bedroom_2": 10.16,
+          "bathroom_wet": 9.52,
+          "bathroom_dry": 7.14,
+          "storage": 7.14
+        }
+      },
+      "out_dir": "D:\\Ai+rhino\\residential-unit-generator\\results\\policy_matrix\\2BR",
+      "comparison_svg": "D:\\Ai+rhino\\residential-unit-generator\\results\\policy_matrix\\2BR\\comparison_plan.svg"
+    },
+    {
+      "count": 1,
+      "config": "configs\\default_3br.json",
+      "unit_type": "3BR",
+      "default": {
+        "generated": 1,
+        "valid": 1,
+        "average_score": 0.9521,
+        "warning_count": 0,
+        "failure_count": 0,
+        "top_score": 0.9521,
+        "best_unit": "A000",
+        "top_room_areas": {
+          "living_room": 27.6,
+          "kitchen": 14.4,
+          "bedroom_main": 21.6,
+          "bedroom_2": 19.44,
+          "bathroom_wet": 5.4,
+          "bathroom_dry": 4.32,
+          "storage": 3.24
+        }
+      },
+      "variant": {
+        "generated": 1,
+        "valid": 1,
+        "average_score": 0.9521,
+        "warning_count": 0,
+        "failure_count": 0,
+        "top_score": 0.9521,
+        "best_unit": "A000",
+        "top_room_areas": {
+          "living_room": 27.6,
+          "kitchen": 14.4,
+          "bedroom_main": 21.6,
+          "bedroom_2": 19.44,
+          "bathroom_wet": 5.4,
+          "bathroom_dry": 4.32,
+          "storage": 3.24
+        }
+      },
+      "out_dir": "D:\\Ai+rhino\\residential-unit-generator\\results\\policy_matrix\\3BR",
+      "comparison_svg": "D:\\Ai+rhino\\residential-unit-generator\\results\\policy_matrix\\3BR\\comparison_plan.svg"
+    },
+    {
+      "count": 1,
+      "config": "configs\\default_4br.json",
+      "unit_type": "4BR",
+      "default": {
+        "generated": 1,
+        "valid": 1,
+        "average_score": 0.8611,
+        "warning_count": 5,
+        "failure_count": 0,
+        "top_score": 0.8611,
+        "best_unit": "A000",
+        "top_room_areas": {
+          "living_room": 25.7,
+          "kitchen": 12.0,
+          "bedroom_main": 25.7,
+          "bedroom_2": 20.16,
+          "bedroom_3": 12.1,
+          "bedroom_4": 12.0,
+          "bathroom_wet": 10.28,
+          "bathroom_dry": 8.06,
+          "storage": 4.84
+        }
+      },
+      "variant": {
+        "generated": 1,
+        "valid": 1,
+        "average_score": 0.8611,
+        "warning_count": 5,
+        "failure_count": 0,
+        "top_score": 0.8611,
+        "best_unit": "A000",
+        "top_room_areas": {
+          "living_room": 25.7,
+          "kitchen": 12.0,
+          "bedroom_main": 25.7,
+          "bedroom_2": 20.16,
+          "bedroom_3": 12.1,
+          "bedroom_4": 12.0,
+          "bathroom_wet": 10.28,
+          "bathroom_dry": 8.06,
+          "storage": 4.84
+        }
+      },
+      "out_dir": "D:\\Ai+rhino\\residential-unit-generator\\results\\policy_matrix\\4BR",
+      "comparison_svg": "D:\\Ai+rhino\\residential-unit-generator\\results\\policy_matrix\\4BR\\comparison_plan.svg"
+    }
+  ]
+}

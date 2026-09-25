@@ -1,0 +1,47 @@
+{
+  "count": 5,
+  "config": "residential-unit-generator\\configs\\default_4br.json",
+  "unit_type": "4BR",
+  "default": {
+    "generated": 5,
+    "valid": 5,
+    "average_score": 0.8611,
+    "warning_count": 25,
+    "failure_count": 0,
+    "top_score": 0.8611,
+    "best_unit": "A000",
+    "top_room_areas": {
+      "living_room": 25.7,
+      "kitchen": 12.0,
+      "bedroom_main": 25.7,
+      "bedroom_2": 20.16,
+      "bedroom_3": 12.1,
+      "bedroom_4": 12.0,
+      "bathroom_wet": 10.28,
+      "bathroom_dry": 8.06,
+      "storage": 4.84
+    }
+  },
+  "variant": {
+    "generated": 5,
+    "valid": 0,
+    "average_score": 0.7687,
+    "warning_count": 25,
+    "failure_count": 5,
+    "top_score": 0.7687,
+    "best_unit": "A000",
+    "top_room_areas": {
+      "living_room": 25.7,
+      "kitchen": 12.0,
+      "bedroom_main": 25.7,
+      "bedroom_2": 20.16,
+      "bedroom_3": 12.1,
+      "bedroom_4": 12.0,
+      "bathroom_wet": 10.28,
+      "bathroom_dry": 8.06,
+      "storage": 4.84
+    }
+  },
+  "out_dir": "residential-unit-generator\\results\\policy_comparison_4br",
+  "comparison_svg": "residential-unit-generator\\results\\policy_comparison_4br\\comparison_plan.svg"
+}
