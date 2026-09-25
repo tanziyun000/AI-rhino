@@ -18,3 +18,7 @@ jobs:
         run: python -m py_compile residential-unit-generator/tools/*.py residential-unit-generator/gh/code.py residential-unit-generator/gh/GH_Interface.py residential-unit-generator/run_prototype.py
       - name: Run tests
         run: python residential-unit-generator/tests/run_tests.py
+      - name: Build report pack
+        run: python residential-unit-generator/tools/generate_report_pack.py residential-unit-generator/configs/unit_matrix.json --unit-count 1 --policy-count 1 --out-dir residential-unit-generator/results/report_pack_ci
+      - name: Verify report pack
+        run: python residential-unit-generator/tools/generate_report_pack.py residential-unit-generator/configs/unit_matrix.json --unit-count 1 --policy-count 1 --out-dir residential-unit-generator/results/report_pack_ci --verify
